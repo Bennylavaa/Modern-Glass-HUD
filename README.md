@@ -6,7 +6,7 @@ This HUD skin also comes with a custom interface font file, texturejapanese.xvm 
 If the user is using the Lua addon plugin, the creator of this HUD has provided values for the Theme Editor, so that the plugin colors match the chosen HUD. These values are included in each preview image below.
 
 ## Install
-To install this skin, click the button below to download the archive, then extract all files to your PSOBB folder. Depending on the server you are playing on this could be in different locations. 
+To install this skin, click [here](https://github.com/Bennylavaa/Modern-Glass-HUD/releases/tag/1.0.0) to download the skin you would like, then extract all files to your PSOBB folder. Depending on the server you are playing on this could be in different locations. 
 
 Ephinea: C:\Users\Username\EphineaPSO
 PSOBB.IO: C:\Games\PSOBB.IO
