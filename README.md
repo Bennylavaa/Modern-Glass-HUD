@@ -1,4 +1,7 @@
 # Modern-Glass-HUD
+
+Disclamer: I did not make these skins and do not own the creative credit for them either. I am just reuploading here to ensure they remain preserved for others. The skins were originally gathered from here: https://wiki.pioneer2.net/w/Skin:Modern_Glass_HUD Original Credit goes to [Echelon](https://www.pioneer2.net/community/members/echelon.401/).
+
 Modern Glass HUD is a skin that modifies the HUD. It comes in 10 different colors.
 
 This HUD skin also comes with a custom interface font file, texturejapanese.xvm Do not overwrite this file if you wish to keep a previously installed one.
